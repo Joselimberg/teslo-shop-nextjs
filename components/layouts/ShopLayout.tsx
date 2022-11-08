@@ -5,7 +5,6 @@ import { Navbar, SideMenu } from '../ui';
 
 
 interface Props {
-    children: React.ReactNode;
     title: string;
     pageDescription: string;
     imageFullUrl?: string;
